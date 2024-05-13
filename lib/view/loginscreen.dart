@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:newfirebase/signupscreen.dart';
+import 'package:newfirebase/view/signupscreen.dart';
 
-import 'authpage.dart';
+import '../model/authpage.dart';
 import 'homescreen.dart';
 
 
